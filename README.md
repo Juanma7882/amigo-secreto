@@ -1,5 +1,6 @@
 # 🎁 Amigo Secreto
-[¡Ver el proyecto en vivo en GitHub Pages!](https://juanma7882.github.io/amigo-secreto/.
+[¡Ver el proyecto en vivo en GitHub Pages!](https://juanma7882.github.io/amigo-secreto/)
+
 Una pequeña aplicación web para organizar un sorteo de **Amigo Secreto** de forma sencilla. Los participantes ingresan sus nombres, y al hacer clic en el botón, se elige uno de forma aleatoria.
 
 ## 🚀 Funcionalidades
