@@ -22,12 +22,14 @@ Una pequeña aplicación web para organizar un sorteo de **Amigo Secreto** de fo
 ![Vista previa del proyecto](assets/amigo-secreto.png)
 
 ## 📦 Estructura de archivos
+```text
 📁 proyecto-amigo-secreto/
 ├── index.html
 ├── style.css
 ├── app.js
 └── assets/
-└── amigo-secreto.png
+    └── amigo-secreto.png
+```
 
 ## ⚙️ Cómo usarlo
 
